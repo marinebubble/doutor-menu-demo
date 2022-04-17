@@ -16,6 +16,18 @@
     { "id": 1, "title": "ミラノサンドA 生ハム・ボンレスハム・ボローニャソーセージ", "category":"milano sandwich", "price":456, "image":"https://www.doutor.co.jp/product/file/20210930000001.jpg", "desc":"さっぱりとした生ハム、ボンレスハムと粗挽きブラックペッパーのきいたボローニャソーセージをサンドした、シンプルながら味わい深いサンドイッチです。" },
     { "id": 1, "title": "チーズinミラノサンドA 生ハム・ボンレスハム・ボローニャソーセージ", "category":"milano sandwich", "price":486, "image":"https://www.doutor.co.jp/product/file/20210930000002.jpg", "desc":"さっぱりとした生ハム、ボンレスハムと粗挽きブラックペッパーのきいたボローニャソーセージをサンドした、シンプルながら味わい深いサンドイッチにまろやかなクリームチーズ入りスライスチーズ(※)を合わせました。<br />※クリームチーズを60％使用したプロセスチーズ" }
   ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
