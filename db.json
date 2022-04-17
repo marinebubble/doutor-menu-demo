@@ -2,8 +2,7 @@
   "posts": [
     { "id": 1, "title": "モーニング・セット　ホットモーニング　ベーコンとタマゴ ～とろける3種のチーズ～", "cagegory":"seasonal", "price":450, "image":"https://www.doutor.co.jp/dcs/common/banners/20220331/season01_s.jpg", "desc":"チーズのクリーミーな味わいとベーコンの薫りが引き立つ、食べ応え抜群のモーニングメニューです。" },
     { "id": 1, "title": "ミラノサンドC　照り焼きチキンとたまごタルタル　～爽やかオレンジ仕立て～", "cagegory":"seasonal", "price":480, "image":"https://www.doutor.co.jp/dcs/common/banners/20220323/season06_s.jpg", "desc":"ボリューム感のある鶏もも肉の照り焼きに、相性抜群のたまごタルタルを合わせました。" },
-    { "id": 1, "title": "青森県産りんごヨーグルト～紅玉＆ふじ～", "cagegory":"seasonal", "price":410, "image":"https://www.doutor.co.jp/dcs/common/banners/20220120/season02_s.jpg", "desc":"青森県産の「紅玉」と「ふじ」を使用したヨーグルトドリンクです。
-2種のりんごをあわせることで甘さと酸味のバランスがよく、また果肉を加え食感も楽しめるドリンクに仕立てています。" },
+    { "id": 1, "title": "青森県産りんごヨーグルト～紅玉＆ふじ～", "cagegory":"seasonal", "price":410, "image":"https://www.doutor.co.jp/dcs/common/banners/20220120/season02_s.jpg", "desc":"青森県産の「紅玉」と「ふじ」を使用したヨーグルトドリンクです。2種のりんごをあわせることで甘さと酸味のバランスがよく、また果肉を加え食感も楽しめるドリンクに仕立てています。" },
   ],
   "profile": {
     "name": "typicode"
